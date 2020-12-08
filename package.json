@@ -1,0 +1,25 @@
+{
+  "name": "fit_curve_to_two_dimentional_data",
+  "version": "1.0.0",
+  "description": "tfjs tutorial example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabaojian1992/tfjs-examples.git"
+  },
+  "keywords": [
+    "tfjs"
+  ],
+  "author": "dabaojian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabaojian1992/tfjs-examples/issues"
+  },
+  "homepage": "https://github.com/dabaojian1992/tfjs-examples#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.7.0"
+  }
+}
