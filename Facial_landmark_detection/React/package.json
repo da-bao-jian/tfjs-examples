@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tensorflow-models/facemesh": "^0.0.5",
+    "@tensorflow/tfjs": "^2.7.0",
+    "react-webcam": "^5.2.2"
+  }
+}
